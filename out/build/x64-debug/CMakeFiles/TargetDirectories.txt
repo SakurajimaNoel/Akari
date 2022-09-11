@@ -1,0 +1,5 @@
+C:/Users/Amit/source/repos/SakurajimaNoel/Akari/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Amit/source/repos/SakurajimaNoel/Akari/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Amit/source/repos/SakurajimaNoel/Akari/out/build/x64-debug/Akari/CMakeFiles/Akari.dir
+C:/Users/Amit/source/repos/SakurajimaNoel/Akari/out/build/x64-debug/Akari/CMakeFiles/edit_cache.dir
+C:/Users/Amit/source/repos/SakurajimaNoel/Akari/out/build/x64-debug/Akari/CMakeFiles/rebuild_cache.dir
